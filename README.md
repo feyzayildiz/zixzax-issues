@@ -1,2 +1,2 @@
-# zixzax-issues
-ZixZax issues
+# ZixZax Game 
+- yusuf.yildiz@josephstar.net
