@@ -1,2 +1,2 @@
-# ZixZax Game 
-- yusuf.yildiz@josephstar.net
+# ZixZax Mobile Game 
+- contact@josephstar.net
